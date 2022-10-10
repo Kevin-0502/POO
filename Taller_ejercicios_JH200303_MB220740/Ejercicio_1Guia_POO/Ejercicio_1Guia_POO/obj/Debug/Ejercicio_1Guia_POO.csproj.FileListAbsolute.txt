@@ -1,0 +1,11 @@
+C:\Users\JMenj\OneDrive\Documents\Visual Studio 2022\PROYECTOS\Ejercicio_1Guia_POO\Ejercicio_1Guia_POO\bin\Debug\Ejercicio_1Guia_POO.exe.config
+C:\Users\JMenj\OneDrive\Documents\Visual Studio 2022\PROYECTOS\Ejercicio_1Guia_POO\Ejercicio_1Guia_POO\bin\Debug\Ejercicio_1Guia_POO.exe
+C:\Users\JMenj\OneDrive\Documents\Visual Studio 2022\PROYECTOS\Ejercicio_1Guia_POO\Ejercicio_1Guia_POO\bin\Debug\Ejercicio_1Guia_POO.pdb
+C:\Users\JMenj\OneDrive\Documents\Visual Studio 2022\PROYECTOS\Ejercicio_1Guia_POO\Ejercicio_1Guia_POO\obj\Debug\Ejercicio_1Guia_POO.csproj.AssemblyReference.cache
+C:\Users\JMenj\OneDrive\Documents\Visual Studio 2022\PROYECTOS\Ejercicio_1Guia_POO\Ejercicio_1Guia_POO\obj\Debug\Ejercicio_1Guia_POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\JMenj\OneDrive\Documents\Visual Studio 2022\PROYECTOS\Ejercicio_1Guia_POO\Ejercicio_1Guia_POO\obj\Debug\Ejercicio_1Guia_POO.Form1.resources
+C:\Users\JMenj\OneDrive\Documents\Visual Studio 2022\PROYECTOS\Ejercicio_1Guia_POO\Ejercicio_1Guia_POO\obj\Debug\Ejercicio_1Guia_POO.Properties.Resources.resources
+C:\Users\JMenj\OneDrive\Documents\Visual Studio 2022\PROYECTOS\Ejercicio_1Guia_POO\Ejercicio_1Guia_POO\obj\Debug\Ejercicio_1Guia_POO.csproj.GenerateResource.cache
+C:\Users\JMenj\OneDrive\Documents\Visual Studio 2022\PROYECTOS\Ejercicio_1Guia_POO\Ejercicio_1Guia_POO\obj\Debug\Ejercicio_1Guia_POO.csproj.CoreCompileInputs.cache
+C:\Users\JMenj\OneDrive\Documents\Visual Studio 2022\PROYECTOS\Ejercicio_1Guia_POO\Ejercicio_1Guia_POO\obj\Debug\Ejercicio_1Guia_POO.exe
+C:\Users\JMenj\OneDrive\Documents\Visual Studio 2022\PROYECTOS\Ejercicio_1Guia_POO\Ejercicio_1Guia_POO\obj\Debug\Ejercicio_1Guia_POO.pdb
